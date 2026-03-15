@@ -1,0 +1,44 @@
+# 🔐 Lukman Suleiman – Cybersecurity Portfolio
+
+## About Me
+I am a cybersecurity enthusiast and analyst with experience in SOC operations, threat intelligence, vulnerability assessment, and incident response. I also have a foundation in data science and analytics to support evidence-based security decision-making.
+
+## Security Domains
+- SOC / Incident Response
+- Vulnerability Assessment & Pentesting
+- Threat Intelligence
+- GRC (Governance, Risk, Compliance)
+
+## Featured Projects
+### 1. Firewall Rule Update & Traffic Restriction
+- Tools: Wireshark, Splunk, Firewall Console
+- Focus: Restrict outbound traffic, reduce attack surface
+- [Screenshots & Logs](#)
+
+### 2. Vulnerability Assessment & Reporting
+- Tools: Nessus, Python, SQL
+- Focus: Web server vulnerability scanning & remediation
+- [Scripts & Reports](#)
+
+### 3. Threat Intelligence Analysis
+- Tools: Python, Splunk
+- Focus: Detect phishing & malware campaigns
+- [Sample Dashboards](#)
+
+### 4. SOC Incident Response Simulation
+- Tools: SIEM, Wireshark
+- Focus: Respond to simulated ransomware scenario
+- [Logs & Evidence](#)
+
+## Certifications
+- CompTIA Security+ (in progress)
+- Ethical Hacking Fundamentals
+- Data Science Foundations
+
+## Tools & Technologies
+Wireshark, Splunk, Nessus, Firewall management, Python, SQL, Linux, SIEM platforms
+
+## Contact
+- 📧 Email: luqsule@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/lukmansuleiman](#)
+- 🖥 Portfolio: [github.com/luqsule](#)
